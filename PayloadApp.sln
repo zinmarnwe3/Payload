@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayloadApp", "PayloadApp\PayloadApp.csproj", "{1A674678-AD8B-4A82-A14F-6F3EFC1EAEDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A674678-AD8B-4A82-A14F-6F3EFC1EAEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A674678-AD8B-4A82-A14F-6F3EFC1EAEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A674678-AD8B-4A82-A14F-6F3EFC1EAEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A674678-AD8B-4A82-A14F-6F3EFC1EAEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B886311-B285-4BD6-A4DD-0719D166FC2D}
+	EndGlobalSection
+EndGlobal
